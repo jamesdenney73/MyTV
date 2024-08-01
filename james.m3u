@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DoctorWho" tvg-logo="https://i.imgur.com/FmHui2x.png" group-title="Series",Doctor Who
+https://lnc-dr-who.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BBC Doctor Who Classic (720p)
+https://lnc-dr-who.tubi.video/playlist.m3u8
