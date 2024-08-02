@@ -3,3 +3,6 @@
 https://lnc-dr-who.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BBC Doctor Who Classic (720p)
 https://lnc-dr-who.tubi.video/playlist.m3u8
+#EXTINF:-1 channel-id="pbs-WETP" tvg-id="WETP" tvg-logo="https://image.pbs.org/stations/wetp-color-cobranded-logo-JMeYFqi.png" , East Tennessee PBS
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+
